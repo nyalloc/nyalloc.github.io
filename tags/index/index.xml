@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on nyalloc</title>
-    <link>http://nyalloc.io/tags/index/</link>
+    <link>https://nyalloc.io/tags/index/</link>
     <description>Recent content in index on nyalloc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>stuartdadams@gmail.com (Stuart Adams)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://nyalloc.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://nyalloc.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -23,11 +23,11 @@
       
       <item>
         <title>Posts</title>
-        <link>http://nyalloc.io/posts/</link>
+        <link>https://nyalloc.io/posts/</link>
         <pubDate>Sat, 24 Oct 2020 02:31:25 +0100</pubDate>
         <author>stuartdadams@gmail.com (Stuart Adams)</author>
         
-        <guid>http://nyalloc.io/posts/</guid>
+        <guid>https://nyalloc.io/posts/</guid>
         <description></description>
         
         <dc:creator>Stuart Adams</dc:creator>

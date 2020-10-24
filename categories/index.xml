@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on nyalloc</title>
-    <link>http://nyalloc.io/categories/</link>
+    <link>https://nyalloc.io/categories/</link>
     <description>Recent content in Categories on nyalloc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>stuartdadams@gmail.com (Stuart Adams)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://nyalloc.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://nyalloc.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     

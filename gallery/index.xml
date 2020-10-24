@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on nyalloc</title>
-    <link>http://nyalloc.io/gallery/</link>
+    <link>https://nyalloc.io/gallery/</link>
     <description>Recent content in Galleries on nyalloc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 24 Oct 2020 02:30:30 +0100</lastBuildDate>
     
-        <atom:link href="http://nyalloc.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://nyalloc.io/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>Cats</title>
-        <link>http://nyalloc.io/gallery/cats/</link>
+        <link>https://nyalloc.io/gallery/cats/</link>
         <pubDate>Sat, 24 Oct 2020 02:30:30 +0100</pubDate>
         <author>stuartdadams@gmail.com (Stuart Adams)</author>
         <atom:modified>Sat, 24 Oct 2020 02:30:30 +0100</atom:modified>
-        <guid>http://nyalloc.io/gallery/cats/</guid>
+        <guid>https://nyalloc.io/gallery/cats/</guid>
         <description>Pictures of Ash and Bishop, my wonderful, mischievous cats! 🐈🐈</description>
         
         <dc:creator>Stuart Adams</dc:creator>
-        <media:content url="http://nyalloc.ioimages/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://nyalloc.ioimages/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
