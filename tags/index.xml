@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on nyalloc</title>
+    <link>http://nyalloc.io/tags/</link>
+    <description>Recent content in Tags on nyalloc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>stuartdadams@gmail.com (Stuart Adams)</managingEditor>
+    <webMaster>stuartdadams@gmail.com (Stuart Adams)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 24 Oct 2020 02:31:25 +0100</lastBuildDate>
+    
+        <atom:link href="http://nyalloc.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>chat</title>
+        <link>http://nyalloc.io/tags/chat/</link>
+        <pubDate>Sat, 24 Oct 2020 02:31:25 +0100</pubDate>
+        <author>stuartdadams@gmail.com (Stuart Adams)</author>
+        
+        <guid>http://nyalloc.io/tags/chat/</guid>
+        <description></description>
+        
+        <dc:creator>Stuart Adams</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>index</title>
+        <link>http://nyalloc.io/tags/index/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>stuartdadams@gmail.com (Stuart Adams)</author>
+        
+        <guid>http://nyalloc.io/tags/index/</guid>
+        <description></description>
+        
+        <dc:creator>Stuart Adams</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>nyalloc</title>
+    <link>http://nyalloc.io/</link>
+    <description>Recent content on nyalloc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>stuartdadams@gmail.com (Stuart Adams)</managingEditor>
+    <webMaster>stuartdadams@gmail.com (Stuart Adams)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 24 Oct 2020 02:31:25 +0100</lastBuildDate>
+    
+        <atom:link href="http://nyalloc.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>Hello, world!</title>
+        <link>http://nyalloc.io/posts/hello-world/</link>
+        <pubDate>Sat, 24 Oct 2020 02:31:25 +0100</pubDate>
+        <author>stuartdadams@gmail.com (Stuart Adams)</author>
+        <atom:modified>Sat, 24 Oct 2020 02:31:25 +0100</atom:modified>
+        <guid>http://nyalloc.io/posts/hello-world/</guid>
+        <description>Screaming into the void. Hi! I&amp;rsquo;m Stuart. Welcome to my new blog, where I will rant and rave about systems programming and other nonsense. Lately I&amp;rsquo;ve been trying to get caught up on next-gen graphics APIs, so a lot of my toy projects and experiments have been based around Vulkan and SPIR-V. I may also post about my hobbies and personal life, including game development, music and my cats!
+Thanks for stopping by!</description>
+        
+        <dc:creator>Stuart Adams</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>chat</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

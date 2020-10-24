@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://nyalloc.io/about/</loc>
+    <lastmod>2020-10-24T03:34:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nyalloc.io/</loc>
+    <lastmod>2020-10-24T02:31:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nyalloc.io/tags/chat/</loc>
+    <lastmod>2020-10-24T02:31:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nyalloc.io/posts/hello-world/</loc>
+    <lastmod>2020-10-24T02:31:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nyalloc.io/posts/</loc>
+    <lastmod>2020-10-24T02:31:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nyalloc.io/tags/</loc>
+    <lastmod>2020-10-24T02:31:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nyalloc.io/gallery/cats/</loc>
+    <lastmod>2020-10-24T02:30:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nyalloc.io/gallery/</loc>
+    <lastmod>2020-10-24T02:30:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nyalloc.io/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nyalloc.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://nyalloc.io/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>http://nyalloc.io/series/</loc>
+  </url>
+  
+</urlset>
