@@ -39,11 +39,11 @@
       
       <item>
         <title>WTF is this?</title>
-        <link>https://nyalloc.io/posts/wtf-is/</link>
+        <link>https://nyalloc.io/posts/wtf-is-this/</link>
         <pubDate>Wed, 25 Nov 2020 19:46:25 +0100</pubDate>
         <author>stuartdadams@gmail.com (Stuart Adams)</author>
         <atom:modified>Wed, 25 Nov 2020 19:46:25 +0100</atom:modified>
-        <guid>https://nyalloc.io/posts/wtf-is/</guid>
+        <guid>https://nyalloc.io/posts/wtf-is-this/</guid>
         <description>Curiosity killed the cat Are you a C++ student? Do you want to explore all the vile Lovecraftian horrors that lie just beneath the surface? If you&amp;rsquo;d like to take that first brave step into the abyss, you&amp;rsquo;re in luck. I&amp;rsquo;m starting a series of articles called WTF is this? where I will expose newer programmers to the gritty, hair-raising monstrosities that I wish I had learned sooner.
 When I was a student, I felt like there weren&amp;rsquo;t a lot of resources out there that approached technical problems in a conversational, non-academic way.</description>
         
