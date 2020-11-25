@@ -14,7 +14,7 @@
     <managingEditor>stuartdadams@gmail.com (Stuart Adams)</managingEditor>
     <webMaster>stuartdadams@gmail.com (Stuart Adams)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 24 Oct 2020 02:31:25 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2020 19:46:25 +0100</lastBuildDate>
     
         <atom:link href="https://nyalloc.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,10 +25,28 @@
       <item>
         <title>chat</title>
         <link>https://nyalloc.io/tags/chat/</link>
-        <pubDate>Sat, 24 Oct 2020 02:31:25 +0100</pubDate>
+        <pubDate>Wed, 25 Nov 2020 19:46:25 +0100</pubDate>
         <author>stuartdadams@gmail.com (Stuart Adams)</author>
         
         <guid>https://nyalloc.io/tags/chat/</guid>
+        <description></description>
+        
+        <dc:creator>Stuart Adams</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>wtf</title>
+        <link>https://nyalloc.io/tags/wtf/</link>
+        <pubDate>Wed, 25 Nov 2020 19:46:25 +0100</pubDate>
+        <author>stuartdadams@gmail.com (Stuart Adams)</author>
+        
+        <guid>https://nyalloc.io/tags/wtf/</guid>
         <description></description>
         
         <dc:creator>Stuart Adams</dc:creator>

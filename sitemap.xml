@@ -3,32 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nyalloc.io/</loc>
+    <lastmod>2020-11-25T19:46:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nyalloc.io/tags/chat/</loc>
+    <lastmod>2020-11-25T19:46:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nyalloc.io/posts/</loc>
+    <lastmod>2020-11-25T19:46:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nyalloc.io/tags/</loc>
+    <lastmod>2020-11-25T19:46:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nyalloc.io/tags/wtf/</loc>
+    <lastmod>2020-11-25T19:46:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nyalloc.io/posts/wtf-is/</loc>
+    <lastmod>2020-11-25T19:46:25+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nyalloc.io/about/</loc>
     <lastmod>2020-10-24T03:34:41+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nyalloc.io/</loc>
-    <lastmod>2020-10-24T02:31:25+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nyalloc.io/tags/chat/</loc>
-    <lastmod>2020-10-24T02:31:25+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nyalloc.io/posts/hello-world/</loc>
-    <lastmod>2020-10-24T02:31:25+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nyalloc.io/posts/</loc>
-    <lastmod>2020-10-24T02:31:25+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nyalloc.io/tags/</loc>
     <lastmod>2020-10-24T02:31:25+01:00</lastmod>
   </url>
   

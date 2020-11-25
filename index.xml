@@ -14,7 +14,7 @@
     <managingEditor>stuartdadams@gmail.com (Stuart Adams)</managingEditor>
     <webMaster>stuartdadams@gmail.com (Stuart Adams)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 24 Oct 2020 02:31:25 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2020 19:46:25 +0100</lastBuildDate>
     
         <atom:link href="https://nyalloc.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,6 +36,35 @@
         
       
 
+      
+      <item>
+        <title>WTF is this?</title>
+        <link>https://nyalloc.io/posts/wtf-is/</link>
+        <pubDate>Wed, 25 Nov 2020 19:46:25 +0100</pubDate>
+        <author>stuartdadams@gmail.com (Stuart Adams)</author>
+        <atom:modified>Wed, 25 Nov 2020 19:46:25 +0100</atom:modified>
+        <guid>https://nyalloc.io/posts/wtf-is/</guid>
+        <description>Curiosity killed the cat Are you a C++ student? Do you want to explore all the vile Lovecraftian horrors that lie just beneath the surface? If you&amp;rsquo;d like to take that first brave step into the abyss, you&amp;rsquo;re in luck. I&amp;rsquo;m starting a series of articles called WTF is this? where I will expose newer programmers to the gritty, hair-raising monstrosities that I wish I had learned sooner.
+When I was a student, I felt like there weren&amp;rsquo;t a lot of resources out there that approached technical problems in a conversational, non-academic way.</description>
+        
+        <dc:creator>Stuart Adams</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>chat</category>
+            
+          
+            
+              <category>wtf</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>Hello, world!</title>
